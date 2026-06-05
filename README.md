@@ -8,6 +8,15 @@ Este projeto analisa a lucratividade real de uma operação de e-commerce dividi
 
 ---
 
+## 🖼️ Interface Visual e KPIs Consolidados
+*Abaixo está a demonstração visual do painel estratégico desenvolvido para suporte à tomada de decisão de diretores e gerentes de operação.*
+
+![Dashboard Comercial](gráfico.png)
+
+> 💡 **Dica de Visualização:** O painel centraliza os blocos de KPIs superiores para acompanhamento rápido de saúde financeira, seguido pela tabela de detalhamento setorial e o gráfico comparativo de receita.
+
+---
+
 ## 🛠️ Estrutura do Modelo
 
 O projeto foi estruturado em uma planilha eletrônica profissional dividida em duas abas integradas:
@@ -40,13 +49,6 @@ Para criar a automação do painel sem precisar de processos manuais, o modelo u
 * **Ticket Médio:** Valor médio gasto em cada compra.
 * **Lucro Líquido Real:** O valor final que sobra no caixa após pagar o produto e o marketing.
 * **ROI de Marketing:** Retorno sobre o investimento feito em anúncios.
-
----
-
-## 🚀 Como Executar
-1. Faça o download do arquivo `Ecommerce_Financial_Intelligence.xlsx` neste repositório.
-2. Abra no Microsoft Excel ou importe diretamente para o Google Sheets.
-3. As fórmulas e o gráfico de colunas vão se atualizar sozinhos se você cadastrar novas vendas na base.
 
 ---
 
